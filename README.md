@@ -1,2 +1,2 @@
-# holbertonschool-shell
-This repository contains shell scripting exercises for Holberton School.
+# Holberton School Shell
+Shell scripting exercises.
